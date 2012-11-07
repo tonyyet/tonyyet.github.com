@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "简介"
+group: navigation
 ---
 {% include JB/setup %}
 
