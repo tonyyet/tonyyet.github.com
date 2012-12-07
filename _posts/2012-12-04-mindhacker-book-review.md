@@ -14,4 +14,4 @@ learn"这个题目发生兴趣。因为我越来越感觉到，学会了什么�
 Hacks](http://book.douban.com/subject/1475502/)
 的书，讲述的也是跟mindhacking相关的经验和方法。
 
-事实上，我认为mindhacking还不是很够，因为它更多是一些小trick，但还不是
+这几天我大概翻了一下 Mindhacker 这本书。感觉这书还蛮实用的，里边提到的很多
