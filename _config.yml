@@ -9,7 +9,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 技术学习日志
+title : Brain Dump
 author :
   name : Tony Yet
   email : tony@tonyyet.com
