@@ -20,24 +20,35 @@ nanoc之类的简单轻松多了。我从熟悉这个工具到使用它来重新
 先是下载：
 
 1. 下载node.js:
+
 http://nodejs.org/#download
 
 2. 进入终端，通过npm安装punch:
-npm install -g punch
+
+  npm install -g punch
 
 3. 安装完毕之后，可以在终端输入：
-punch
+
+  punch
+
 应该可以看到一些punch的相关命令项目提示，这就表明安装成功了。
 
 
 下载安装好之后，你可以通过以下命令来创建一个静态网站：
-punch setup mysite
+
+  punch setup mysite
+
 而后cd到mysite的目录，这时候开启nodejs内置的服务器，就能在浏览器上看到新建的网站了：
-cd mysite
-punch s
+
+  cd mysite
+  punch s
+
 这时候打开浏览器，在地址栏打”localhost:9009“就可以进入这个网站了。
 
 
-* 使用
+## 使用
 
 punch自身有一个非常吸引人的tutorial，只需打开网站即可看到。我就是看着这份tutorial把东西做出来的。
+
+至于网站的个性化设置，可以通过修改css文件来完成，这里就不多说了。感兴趣的朋友可以自己探索一下。
+
