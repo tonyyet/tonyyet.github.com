@@ -7,7 +7,7 @@ tags: [collaboration, github]
 {% include JB/setup %}
 
 
-最早知道 pull request 是2011年的时候，那时候估计是听了某人的忽悠，然后到 github 上去试了一下，结果是不得其法，没有找到要害。结果一直到今天，才无意中搞明白了 pull request 到底是怎么一回事。。。
+最早知道 [pull request](https://help.github.com/articles/using-pull-requests/) 是2011年的时候，那时候估计是听了某人的忽悠，然后到 github 上去试了一下，结果是不得其法，没有找到要害。结果一直到今天，才无意中搞明白了 pull request 到底是怎么一回事。。。
 
 那时候 github 开始变得流行起来，我经常在各种开源软件项目的网站上看得到 fork me on github 的话，当时没有理解其意思，现在才明白，原来那是呼唤你去帮忙改善别人的代码啊！
 

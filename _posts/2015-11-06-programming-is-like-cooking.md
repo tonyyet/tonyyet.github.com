@@ -1,5 +1,10 @@
-## 编程如炒菜
-
+---
+layout: post
+title: "编程如炒菜"
+category:
+tags: [philosophy]
+---
+{% include JB/setup %}
 
 
 昨晚听了[大妈](http://zoomquiet.io)的讲课，获益良多，趁遗忘之前，赶紧把心得记下来。

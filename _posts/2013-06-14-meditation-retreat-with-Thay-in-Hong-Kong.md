@@ -1,7 +1,13 @@
 ---
-published: true
-layout: default
+layout: post
+title: "快乐这样近"
+category:
+tags: [mindfulness, retreat, meditation]
 ---
+{% include JB/setup %}
+
+
+
 
 > 你在愛一個人嗎？
 
