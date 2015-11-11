@@ -1,4 +1,10 @@
-# The magic of GitHub pull requests
+---
+layout: post
+title: "光棍节我在学 pull request"
+category:
+tags: [collaboration, github]
+---
+{% include JB/setup %}
 
 
 最早知道 pull request 是2011年的时候，那时候估计是听了某人的忽悠，然后到 github 上去试了一下，结果是不得其法，没有找到要害。结果一直到今天，才无意中搞明白了 pull request 到底是怎么一回事。。。
