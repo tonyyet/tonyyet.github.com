@@ -40,9 +40,7 @@ tags: [collaboration, github]
 
 
 
-要知道怎样的 pull request 才是好的 pull request 吗？看看开源达人[@clkao](https://github.com/clkao)的 [pull request 记录](https://github.com/search?p=1&q=is%3Apr+author%3Aclkao&ref=searchresults&type=Issues&utf8=%E2%9C%93)的pull request 怎么写就知道了 :)
-
-pull request 还可以直接[在命令行](https://sethvargo.com/checkout-a-github-pull-request/)进行。
+要知道怎样的 pull request 才是好的 pull request 吗？看看开源达人[@clkao](https://github.com/clkao)的 [pull request 记录](https://github.com/search?p=1&q=is%3Apr+author%3Aclkao&ref=searchresults&type=Issues&utf8=%E2%9C%93)的pull request 怎么写就知道了 :) 当然，像 pull request 这样重要的东西，GitHub 官方肯定也会提供[示范和指南](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)的。假如你习惯使用命令行，你还可以直接[在命令行](https://sethvargo.com/checkout-a-github-pull-request/)进行 pull request 的操作。
 
 
 当然，pull request 也[不是 GitHub 的原创](https://stackoverflow.com/questions/31648748/create-update-a-git-pull-request-from-command-line)，还有其他的代码托管平台也声称自己的 pull request 机制[做得更好](https://developer.atlassian.com/blog/2015/01/a-better-pull-request/)，但 GitHub 把这样一个行为发扬光大了，显然是值得大书特书。
