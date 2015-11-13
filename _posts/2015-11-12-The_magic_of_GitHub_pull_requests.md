@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光棍节我在学 pull request"
+title: "走进开源世界的钥匙：Pull requests"
 category:
 tags: [collaboration, github]
 ---
@@ -32,7 +32,9 @@ tags: [collaboration, github]
 ### pull request 还能做什么？该怎么写？
 
 
-假如你是一位老师，其实你可以考虑用 pull request 来收学生的作业。这是（[案例一](http://ivory.idyll.org/blog/2014-teaching-undergrads-with-github.html)，还有[案例二](http://blog.xdite.net/posts/2014/06/18/git-pull-request-homework)）
+假如你是一位老师，其实你可以考虑用 pull request 来收学生的作业。这是（[案例一](http://ivory.idyll.org/blog/2014-teaching-undergrads-with-github.html)，还有[案例二](http://blog.xdite.net/posts/2014/06/18/git-pull-request-homework)）。
+
+有很多开源技术相关的会议，他们在征集讲者的时候也是直接采取了 pull request 的方法，比如[这个](https://github.com/euruko2012/call-for-proposals)。
 
 正是有了 pull request 这样的机制，程序员才有可能花更多的时间[离线工作](http://artsy.github.io/blog/2015/09/30/Work-Offline-More/)，而 GitHub 所提倡的[远程工作](zachholman.com/posts/how-github-works/)才能成为现实。
 
@@ -67,3 +69,4 @@ GitHub 这家公司把 pull request 以及其他各种的异步沟通工具[玩�
 - [GitHub 官方视频版的 Pull Request 介绍](https://www.youtube.com/watch?v=81uKcXZoQ2A)
 - [How we use Pull Request to build GitHub](https://github.com/blog/1124-how-we-use-pull-requests-to-build-github)
 - [Github School](https://github.com/githubschool)
+- [唐鳯：開源之道](https://www.youtube.com/watch?v=A6bBcvSyg0k)
