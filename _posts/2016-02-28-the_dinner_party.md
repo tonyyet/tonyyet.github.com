@@ -2,7 +2,7 @@
 layout: post
 title: "Have a dinner party"
 category: 
-tags: [metacognition]
+tags: [dinner party, Richard Saul Wurman, Marcos Novak]
 ---
 {% include JB/setup %}
 
